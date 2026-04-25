@@ -95,6 +95,25 @@
 
 ---
 
+## 🏆 Bug Bounty & Cybersecurity Platforms
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/)
+
+---
+
+## 📊 Skill Proof / Live Stats (Optional but Powerful)
+
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)
+
+![Hack The Box Badge](https://www.hackthebox.com/badge/image/YOUR_ID)
+
+
+---
+
 ## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BjUCpVTds/)
