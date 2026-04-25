@@ -122,7 +122,8 @@
 ## 📊 Skill Proof / Live Stats 
 
 <a href="https://tryhackme.com/p/cyberarup439" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Profile-blue?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile"></a>
-<a href="https://www.hackthebox.com/profile/89490" target="_blank"><img src="https://www.hackthebox.com/badge/image/invisible94" alt="Hack The Box Profile"></a>
+
+[Hack The Box Profile](https://www.hackthebox.com/profile/89490)
 
 
 ---
