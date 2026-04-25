@@ -121,7 +121,7 @@
 
 ## 📊 Skill Proof / Live Stats 
 
-**[TryHackMe Profile](https://tryhackme.com/p/cyberarup439)**
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue?style=flat&logo=tryhackme&logoColor=white)
 
 ![Hack The Box Badge](https://www.hackthebox.com/badge/image/YOUR_ID)
 
