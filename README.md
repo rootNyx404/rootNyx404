@@ -37,6 +37,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=torproject&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ---
 
@@ -61,7 +67,9 @@
 ---
 
 ### 🖥️ Virtualization
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -73,6 +81,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![AI Assistance](https://img.shields.io/badge/AI%20Assistance-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -105,7 +116,7 @@
 
 ---
 
-## 📊 Skill Proof / Live Stats (Optional but Powerful)
+## 📊 Skill Proof / Live Stats 
 
 ![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)
 
@@ -133,7 +144,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)
 
 </div>
 
