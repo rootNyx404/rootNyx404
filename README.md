@@ -144,7 +144,7 @@
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)
+[![](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
 
