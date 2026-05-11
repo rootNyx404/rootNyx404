@@ -139,9 +139,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rootNyx404&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rootNyx404&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootNyx404&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Atanu-halder9434&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Atanu-halder9434&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-halder9434&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
