@@ -147,6 +147,18 @@
 
 ---
 
+## 📈 Repository Insights
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rootNyx404&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rootNyx404&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rootNyx404&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootNyx404&theme=tokyonight&utcOffset=6)
+
+---
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=rootNyx404&style=flat-square&color=blueviolet)
