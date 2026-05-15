@@ -176,9 +176,12 @@
 </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=rootNyx404&style=flat-square&color=blueviolet)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rootNyx404&style=for-the-badge&color=blueviolet)
 
 </div>
+
 </div>
 
 <!-- Proudly crafted for a premium hacker presence 😈 -->
