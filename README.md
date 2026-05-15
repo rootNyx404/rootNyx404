@@ -152,12 +152,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootNyx404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rootNyx404&theme=tokyonight"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rootNyx404&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rootNyx404&theme=tokyonight"/>
 
 </td>
 </tr>
@@ -165,7 +165,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootNyx404&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rootNyx404&theme=tokyonight"/>
 
 </td>
 <td width="50%">
@@ -175,8 +175,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=rootNyx404&style=for-the-badge&color=blueviolet)
 
