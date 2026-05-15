@@ -139,17 +139,17 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Atanu-halder9434&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=rootNyx404&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=Atanu-halder9434&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=rootNyx404&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-halder9434&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootNyx404&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)
 
 
 </div>
