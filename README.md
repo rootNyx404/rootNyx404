@@ -177,7 +177,7 @@
 </table>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=rootNyx404&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=rootNyx404&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
