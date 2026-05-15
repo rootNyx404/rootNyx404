@@ -146,20 +146,35 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootNyx404&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
 ## 📈 Repository Insights
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rootNyx404&theme=tokyonight)
+<table align="center">
+<tr>
+<td width="50%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rootNyx404&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rootNyx404&theme=tokyonight"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rootNyx404&theme=tokyonight)
+</td>
+<td width="50%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootNyx404&theme=tokyonight&utcOffset=6)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rootNyx404&theme=tokyonight"/>
 
----
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rootNyx404&theme=tokyonight"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rootNyx404&theme=tokyonight&utcOffset=6"/>
+
+</td>
+</tr>
+</table>
 
 ![](https://komarev.com/ghpvc/?username=rootNyx404&style=flat-square&color=blueviolet)
 
