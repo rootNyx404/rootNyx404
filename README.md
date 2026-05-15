@@ -149,9 +149,9 @@
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=rootNyx404&icon=5&color=12)
-</div>
+![](https://komarev.com/ghpvc/?username=rootNyx404&style=flat-square&color=blueviolet)
 
+</div>
 </div>
 
 <!-- Proudly crafted for a premium hacker presence 😈 -->
